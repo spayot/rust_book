@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./chp17_blogs/Cargo.toml",
+        "./chp16_concurrency/Cargo.toml"
+    ]
+}
